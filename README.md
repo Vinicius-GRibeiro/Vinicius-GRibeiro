@@ -1,14 +1,14 @@
 ## Welcome! I'm glad you're here 🍀
 
-- 👨🏾‍🏫 I’m currently working as a tech teacher, focused on programming
-- 📚 Learning more about Flutter app development using the <a href="https://flet.dev" target="_blank">Flet</a> framework for Python
-- 😄 You can reffer to me as he/him
+- 👨🏾‍🏫 I’m currently working as a tech teacher, focusing on programming.
+- 📚 I'm learning more about Flutter app development using the [Flet](https://flet.dev) framework for Python.
+- 😄 You can refer to me as he/him.
 
 <br>
 
 <div>
   <a href="https://imgbb.com/" target="_blank"><img src="https://i.ibb.co/72Krhfr/ifsp-logo.png" alt="ifsp-logo" border="0" width=83 height=28></a>
-  <p>Associate Degree in Systems Analysis and Development at Instituto Federal de Educação Ciência e Tecnologia de São Paulo</p>
+  <p>Associate Degree in Systems Analysis and Development at <a href="https://bra.ifsp.edu.br/">IFSP</a> - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</p>
 </div>
 
 <br>
@@ -18,7 +18,6 @@
 </div>
 
 <br>
-
 
 ##
 <div style="display: inline_block">
@@ -35,9 +34,9 @@
 <br>
 
 <div>
-  <h3>Want to chat? Hit me up!</h3>
-  <a href="www.linkedin.com/in/viniciusgabriel-nr" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=42     height=42/></a>
-  <a href="www.facebook.com/ViniciusGabriiel/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width=42     height=42/></a>
+  <h3>Want to talk with me? Hit me up!</h3>
+  <a href="https://www.linkedin.com/in/viniciusgabriel-nr" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=42     height=42/></a>
+  <a href="https://www.facebook.com/ViniciusGabriiel/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width=42     height=42/></a>
   <br>
   <p>📧 viniciusgn.ribeiro@gmail.com</p>
 </div>

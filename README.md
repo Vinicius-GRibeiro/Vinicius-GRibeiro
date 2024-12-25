@@ -2,7 +2,6 @@
 
 - 👨🏾‍🏫 I’m currently working as a tech teacher, focusing on programming.
 - 📚 I'm focused on Flutter app development using the [Flet](https://flet.dev) framework for Python.
-- 😄 You can refer to me as he/him.
 
 <br>
 

@@ -1,21 +1,14 @@
-## Welcome! I'm glad you're here 🍀
+## Welcome! 🍀
 
-- 👨🏾‍🏫 I’m currently working as a tech teacher, focusing on programming.
-
-<br>
-
-<div>
-  <a href="https://imgbb.com/" target="_blank"><img src="https://i.ibb.co/72Krhfr/ifsp-logo.png" alt="ifsp-logo" border="0" width=83 height=28></a>
-  <p>Associate Degree in Systems Analysis and Development at <a href="https://bra.ifsp.edu.br/">IFSP</a> - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</p>
-</div>
+👨🏾‍🏫 I’m currently working as a tech teacher, focusing on programming.
 
 <br>
-<div style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-GRibeiro&show_icons=true&theme=merko">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-GRibeiro&layout=compact&theme=merko">
-</div>
 
-<br>
+<p>
+  <img src="https://play-lh.googleusercontent.com/F5PIzC--TKayT83fY4u3x774TmL_w5CuYK52WcvvH8F5JEc5PwzZfifMijl8eC5kIGFS=w240-h480-rw" width="30" height="30" align="left">
+  Bachelor’s degree in Data Science at <a href="https://univesp.br/">UNIVESP</a> – Universidade Virtual do Estado de São Paulo
+</p>
+<br clear="left">
 
 ##
 <div style="display: inline_block">
